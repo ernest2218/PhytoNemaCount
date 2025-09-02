@@ -1,5 +1,3 @@
-Claro, aqui está o texto organizado:
-
 ### **Projeto 1 – Contagem de nematóides**
 
 **PhytoNemaCount: Contagem Descomplicada de Nematoides com IA e Visão Computacional**
